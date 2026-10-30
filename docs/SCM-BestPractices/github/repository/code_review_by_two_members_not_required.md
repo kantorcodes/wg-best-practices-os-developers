@@ -29,5 +29,5 @@ review process.
 5. Click "Edit" on the default branch rule
 6. Check "Require a pull request before merging"
 7. Check "Require approvals"
-8. Set "Required number of approvals before merging" to 1 or more
+8. Set "Required number of approvals before merging" to at least 2
 9. Click "Save changes"
